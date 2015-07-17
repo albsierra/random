@@ -4,5 +4,5 @@ Este proyecto se ha generado como respuesta al ejercicio P2P del Módulo 5 del c
 Author
 ------
 Alberto Sierra
-[1]https://www.miriadax.net/web/javascript-node-js/inicio
+[1]:  https://www.miriadax.net/web/javascript-node-js/inicio
 
